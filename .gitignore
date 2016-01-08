@@ -1,5 +1,8 @@
-bin/
-gen/
-.project
-res/.DS_Store
-res/drawable-hdpi/.DS_Store
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
