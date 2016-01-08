@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/time_zone_filter_item.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/layout/time_zone_filter_item.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/time_zone_filter_item.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/bundles/debug/res/layout/time_zone_filter_item.xml"
     },
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/timezonepickerview.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/layout/timezonepickerview.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/timezonepickerview.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/bundles/debug/res/layout/timezonepickerview.xml"
     },
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/time_zone_item.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/layout/time_zone_item.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/empty_time_zone_item.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/bundles/debug/res/layout/empty_time_zone_item.xml"
     },
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/empty_time_zone_item.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/layout/empty_time_zone_item.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/time_zone_item.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/bundles/debug/res/layout/time_zone_item.xml"
     }
 ]

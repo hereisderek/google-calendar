@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/debug/values-ky-rKG/values-ky-rKG.xml",
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/build/intermediates/res/merged/debug/values-ky-rKG/values-ky-rKG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 195
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 306
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 488
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 602
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 708
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 887
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 980
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1065
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1159
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-ky-rKG/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,

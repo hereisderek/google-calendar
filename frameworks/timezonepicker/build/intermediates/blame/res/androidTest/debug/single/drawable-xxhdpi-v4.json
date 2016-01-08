@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_clear_search_holo_light.png",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_clear_search_holo_light.png"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_clear_search_holo_light.png",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_clear_search_holo_light.png"
     },
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_search_holo_light.png",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_search_holo_light.png"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_search_holo_light.png",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/timezonepicker/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_search_holo_light.png"
     }
 ]

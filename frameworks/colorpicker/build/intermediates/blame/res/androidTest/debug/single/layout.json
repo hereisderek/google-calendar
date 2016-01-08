@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_dialog.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_dialog.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_swatch.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_swatch.xml"
     },
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_swatch.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_swatch.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_dialog.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_dialog.xml"
     }
 ]

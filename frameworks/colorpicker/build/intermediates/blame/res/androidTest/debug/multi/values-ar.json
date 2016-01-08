@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml",
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 196
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/bundles/debug/res/values-ar/values-ar.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/bundles/debug/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 322
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/bundles/debug/res/values-ar/values-ar.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/bundles/debug/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 466
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/colorpicker/build/intermediates/bundles/debug/res/values-ar/values-ar.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/colorpicker/build/intermediates/bundles/debug/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

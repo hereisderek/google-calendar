@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/build/intermediates/res/merged/debug/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 97
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-land/dimens.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-land/dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 146
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-land/dimens.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-land/dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-land/dimens.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-land/dimens.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 257
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-land/dimens.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-land/dimens.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 312
                 },
                 "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/values-land/dimens.xml",
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/values-land/dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,

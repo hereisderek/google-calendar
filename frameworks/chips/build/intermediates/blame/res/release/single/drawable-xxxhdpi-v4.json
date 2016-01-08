@@ -2,9 +2,5 @@
     {
         "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_cancel_wht_24dp.png",
         "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/drawable-xxxhdpi/ic_cancel_wht_24dp.png"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_cancel_wht_24dp.png",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/drawable-xxxhdpi/ic_cancel_wht_24dp.png"
     }
 ]

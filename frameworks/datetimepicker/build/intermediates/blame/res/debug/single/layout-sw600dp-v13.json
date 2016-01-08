@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/debug/layout-sw600dp-v13/date_picker_dialog.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout-sw600dp/date_picker_dialog.xml"
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/build/intermediates/res/merged/debug/layout-sw600dp-v13/date_picker_dialog.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/layout-sw600dp/date_picker_dialog.xml"
     }
 ]

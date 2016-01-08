@@ -24,31 +24,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/values-sw600dp-v13/values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-sw600dp/styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 796,
-                        "endLine": 19,
-                        "endColumn": 12,
-                        "endOffset": 945
-                    }
-                }
-            }
-        ]
     }
 ]

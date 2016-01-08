@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/time_picker_dialog.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/time_picker_dialog.xml"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_header_view.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/date_picker_header_view.xml"
-    },
-    {
         "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_view_animator.xml",
         "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/layout/date_picker_view_animator.xml"
     },
@@ -24,10 +16,6 @@
         "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/layout/date_picker_selected_date.xml"
     },
     {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/year_label_text_view.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/year_label_text_view.xml"
-    },
-    {
         "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/build/intermediates/res/merged/release/layout/time_picker_dialog.xml",
         "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/layout/time_picker_dialog.xml"
     },
@@ -42,25 +30,5 @@
     {
         "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_dialog.xml",
         "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/datetimepicker/src/main/res/layout/date_picker_dialog.xml"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_selected_date.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/date_picker_selected_date.xml"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_view_animator.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/date_picker_view_animator.xml"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_dialog.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/date_picker_dialog.xml"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/time_header_label.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/time_header_label.xml"
-    },
-    {
-        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/release/layout/date_picker_done_button.xml",
-        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout/date_picker_done_button.xml"
     }
 ]
