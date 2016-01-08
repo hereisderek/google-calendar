@@ -1,0 +1,240 @@
+[
+    {
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 106,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 106,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 73,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 73,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 77,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 77,
+                        "endOffset": 985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 75,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 75,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 125,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endColumn": 129,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 103,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 107,
+                        "endOffset": 907
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/build/intermediates/res/merged/release/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 106,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 106,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 73,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 73,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 77,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 77,
+                        "endOffset": 985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 75,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 75,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 125,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endColumn": 129,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 103,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 107,
+                        "endOffset": 907
+                    }
+                }
+            }
+        ]
+    }
+]

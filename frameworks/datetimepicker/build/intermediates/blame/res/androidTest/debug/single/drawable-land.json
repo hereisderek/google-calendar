@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/androidTest/debug/drawable-land/done_background_color_dark.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/bundles/debug/res/drawable-land/done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/androidTest/debug/drawable-land/done_background_color.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/bundles/debug/res/drawable-land/done_background_color.xml"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 17,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 17,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endLine": 32,
+                    "endColumn": 17,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endLine": 32,
+                        "endColumn": 17,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 93,
+                    "endOffset": 2198
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 93,
+                        "endOffset": 2198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2203,
+                    "endColumn": 86,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2203,
+                        "endColumn": 86,
+                        "endOffset": 2285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 91,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2290,
+                        "endColumn": 91,
+                        "endOffset": 2377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endColumn": 102,
+                    "endOffset": 2480
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2382,
+                        "endColumn": 102,
+                        "endOffset": 2480
+                    }
+                }
+            }
+        ]
+    }
+]

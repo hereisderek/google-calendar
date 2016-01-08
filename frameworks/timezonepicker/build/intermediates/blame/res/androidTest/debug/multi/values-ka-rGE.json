@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/res/merged/androidTest/debug/values-ka-rGE/values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 17,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 17,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endLine": 32,
+                    "endColumn": 17,
+                    "endOffset": 2071
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endLine": 32,
+                        "endColumn": 17,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2076,
+                    "endColumn": 103,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2076,
+                        "endColumn": 103,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2180,
+                    "endColumn": 96,
+                    "endOffset": 2272
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endColumn": 96,
+                        "endOffset": 2272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2277,
+                    "endColumn": 90,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2277,
+                        "endColumn": 90,
+                        "endOffset": 2363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 108,
+                    "endOffset": 2472
+                },
+                "from": {
+                    "file": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/timezonepicker/build/intermediates/bundles/debug/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2368,
+                        "endColumn": 108,
+                        "endOffset": 2472
+                    }
+                }
+            }
+        ]
+    }
+]

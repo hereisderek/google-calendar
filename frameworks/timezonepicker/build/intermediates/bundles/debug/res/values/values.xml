@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_codes" translatable="false">
+        <item>"SX"</item>
+        <item>"BQ"</item>
+        <item>"CW"</item>
+        <item>"SS"</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>"Sint Maarten"</item>
+        <item>"Caribbean Netherlands"</item>
+        <item>"Curaçao"</item>
+        <item>"South Sudan"</item>
+    </string-array>
+    <string-array name="timezone_rename_ids" translatable="false">
+
+        <!-- Australia -->
+        <item>"Australia/Darwin"</item>
+        <item>"Australia/Adelaide"</item>
+        <item>"Australia/Brisbane"</item>
+        <item>"Australia/Sydney"</item>
+
+        <!-- Canada -->
+        <!-- Non DST version -->
+        <item>"America/Dawson_Creek"</item>
+        <!-- Non DST version -->
+        <item>"America/Regina"</item>
+        <!-- Non DST version -->
+        <item>"America/Atikokan"</item>
+        <!-- Non DST version -->
+        <item>"America/Blanc-Sablon"</item>
+
+        <!-- US -->
+        <!-- Non DST version -->
+        <item>"Pacific/Honolulu"</item>
+        <!-- DST version -->
+        <item>"America/Adak"</item>
+        <!-- Non DST version -->
+        <item>"America/Metlakatla"</item>
+        <!-- Non DST version -->
+        <item>"America/Phoenix"</item>
+
+        <!-- Mexico -->
+        <!-- DST version with post-2006 US rule -->
+        <item>"America/Tijuana"</item>
+        <!-- DST version with post-2006 US rule -->
+        <item>"America/Ojinaga"</item>
+        <!-- DST version with post-2006 US rule -->
+        <item>"America/Matamoros"</item>
+        <!-- Non DST version -->
+        <item>"America/Hermosillo"</item>
+
+        <!-- Other time zones with missing labels from the framework -->
+        <!-- Missing string in ICS -->
+        <item>"Africa/Juba"</item>
+        <!-- Missing string in ICS -->
+        <item>"America/Kralendijk"</item>
+        <!-- Missing string in ICS -->
+        <item>"America/Lower_Princes"</item>
+        <!-- Only had GMT as the display string -->
+        <item>"Europe/Minsk"</item>
+        <!-- Only had GMT as the display string -->
+        <item>"Europe/Kaliningrad"</item>
+
+        <!-- Brazil -->
+        <!-- Non DST version -->
+        <item>"America/Porto_Velho"</item>
+        <!-- Non DST version -->
+        <item>"America/Belem"</item>
+</string-array>
+    <string-array name="timezone_rename_labels">
+
+        <!-- Australia -->
+        <item>"Australian Central - NT"</item>
+        <item>"Australian Central - SA"</item>
+        <item>"Australian Eastern - QLD"</item>
+        <item>"Australian Eastern - NSW"</item>
+
+        <!-- Canada -->
+        <item>"Mountain Standard - Dawson Creek"</item>
+        <item>"Central Standard - Saskatchewan"</item>
+        <item>"Eastern Standard - Atikokan"</item>
+        <item>"Atlantic Standard - Quebec"</item>
+
+        <!-- US -->
+        <item>"Hawaii-Aleutian - Hawaii"</item>
+        <item>"Hawaii-Aleutian - Alaska"</item>
+        <item>"Pacific Standard - Metlakatla"</item>
+        <item>"Mountain Standard - Arizona"</item>
+
+        <!-- Mexico -->
+        <item>"Pacific - Baja California"</item>
+        <item>"Mountain - Chihuahua"</item>
+        <item>"Central - Tamaulipas"</item>
+        <item>"Mountain - Sonora"</item>
+
+        <!-- Other countries with missing or undesirable labels from the framework -->
+        <item>"East Africa Time"</item>
+        <item>"Atlantic Standard Time"</item>
+        <item>"Atlantic Standard Time"</item>
+        <item>"Eastern European Time"</item>
+        <item>"Kaliningrad Time"</item>
+
+        <!-- Brazil -->
+        <!-- Non DST version of Amazon Standard Time -->
+        <item>"Amazon - Rondônia"</item>
+        <!-- Non DST version of Brasilia Standard Time -->
+        <item>"Brasilia - Pará"</item>
+        </string-array>
+    <string name="hint_time_zone_search">Type country name</string>
+    <string name="no_results_found">No results found</string>
+    <string name="palestine_display_name">Palestine</string>
+    <string name="searchview_description_clear">Clear query</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

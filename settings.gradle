@@ -1,0 +1,6 @@
+include ':colorpicker', ':common', ':datetimepicker', ':timezonepicker', ':chips'
+project(':colorpicker').projectDir = new File('frameworks/colorpicker')
+project(':common').projectDir = new File('frameworks/common')
+project(':datetimepicker').projectDir = new File('frameworks/datetimepicker')
+project(':timezonepicker').projectDir = new File('frameworks/timezonepicker')
+project(':chips').projectDir = new File('frameworks/chips')

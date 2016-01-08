@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/build/intermediates/res/merged/release/drawable/chips_dropdown_background.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/drawable/chips_dropdown_background.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/drawable/chips_dropdown_background.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/drawable/chips_dropdown_background.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/drawable/list_item_font_secondary.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/drawable/list_item_font_secondary.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/drawable/list_item_font_primary.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/drawable/list_item_font_primary.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/build/intermediates/res/merged/release/drawable/list_item_font_secondary.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/drawable/list_item_font_secondary.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/build/intermediates/res/merged/release/drawable/list_item_font_primary.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/drawable/list_item_font_primary.xml"
+    }
+]

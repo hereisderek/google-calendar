@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+    <item msgid="9141777876082196578">"Sint Maarten"</item>
+    <item msgid="5330962017221568054">"Caribe neerlandés"</item>
+    <item msgid="1465164631761814300">"Curaçao"</item>
+    <item msgid="8972081011408691260">"Sudán do Sur"</item>
+  </string-array>
+    <string-array name="timezone_rename_labels">
+    <item msgid="4609638052107641231">"Hora do centro de Australia: NT"</item>
+    <item msgid="4345275500159159867">"Hora do centro de Australia: SA"</item>
+    <item msgid="6771274300523132094">"Oriental australiana: QLD"</item>
+    <item msgid="4685547681424666687">"Oriental australiana: NSW"</item>
+    <item msgid="5259393186526893961">"Estándar Montañas: Dawson Creek"</item>
+    <item msgid="5984634754870859705">"Estándar Central: Saskatchewan"</item>
+    <item msgid="5340374311583423836">"Estándar Oriental: Atikokan"</item>
+    <item msgid="8922086438245451625">"Estándar do Atlántico: Quebec"</item>
+    <item msgid="8353677384517034413">"Hawai-Aleutiano: Hawai"</item>
+    <item msgid="6426791761018806420">"Hawai-Aleutiano: Alasca"</item>
+    <item msgid="7076353182411415610">"Estándar do Pacífico: Metlakatla"</item>
+    <item msgid="373990592918179890">"Estándar das Montañas: Arizona"</item>
+    <item msgid="353899326999279114">"Pacífico: Baja California"</item>
+    <item msgid="6432134534714673873">"Montañas: Chihuahua"</item>
+    <item msgid="7629345735485663968">"Central: Tamaulipas"</item>
+    <item msgid="3874729044260979505">"Montañas: Sonora"</item>
+    <item msgid="1106209575683600471">"Hora de África Oriental"</item>
+    <item msgid="6538017087072480128">"Hora estándar do Atlántico"</item>
+    <item msgid="6758957851822881177">"Hora estándar do Atlántico"</item>
+    <item msgid="2477556470536619081">"Hora de Europa Oriental"</item>
+    <item msgid="7328461310893621937">"Hora de Kaliningrado"</item>
+    <item msgid="4212642599758736931">"Amazonas: Rondonia"</item>
+    <item msgid="2370319280810537375">"Brasilia: Pará"</item>
+  </string-array>
+    <string msgid="804776560897143016" name="hint_time_zone_search">"Escribe o nome do país"</string>
+    <string msgid="5475293015394772651" name="no_results_found">"Ningún resultado"</string>
+    <string msgid="3485026339977302148" name="palestine_display_name">"Palestina"</string>
+    <string msgid="1603860069305867810" name="searchview_description_clear">"Borrar consulta"</string>
+</resources>

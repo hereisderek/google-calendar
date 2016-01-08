@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+    <item msgid="9141777876082196578">"سنٹ مارٹن"</item>
+    <item msgid="5330962017221568054">"کریبیائی نیدرلینڈز"</item>
+    <item msgid="1465164631761814300">"کیورساؤ"</item>
+    <item msgid="8972081011408691260">"جنوبی سوڈان"</item>
+  </string-array>
+    <string-array name="timezone_rename_labels">
+    <item msgid="4609638052107641231">"‏آسٹریلین سنٹرل - NT"</item>
+    <item msgid="4345275500159159867">"‏آسٹریلین سنٹرل - SA"</item>
+    <item msgid="6771274300523132094">"‏آسٹریلین ایسٹرن - QLD"</item>
+    <item msgid="4685547681424666687">"‏آسٹریلین ایسٹرن - NSW"</item>
+    <item msgid="5259393186526893961">"ماؤنٹین اسٹینڈرڈ - ڈاؤسن کریک"</item>
+    <item msgid="5984634754870859705">"سنٹرل اسٹینڈرڈ - سسکیچؤن"</item>
+    <item msgid="5340374311583423836">"ایسٹرن اسٹینڈرڈ - اٹیکوکن"</item>
+    <item msgid="8922086438245451625">"اٹلانٹک اسٹینڈرڈ - کیوبیک"</item>
+    <item msgid="8353677384517034413">"ہوائی الیوشن - ہوائی"</item>
+    <item msgid="6426791761018806420">"ہوائی الیوشن - الاسکا"</item>
+    <item msgid="7076353182411415610">"پیسفک اسٹینڈرڈ - میٹلاکاٹلا"</item>
+    <item msgid="373990592918179890">"ماؤنٹین اسٹینڈرڈ - اریزونا"</item>
+    <item msgid="353899326999279114">"پیسفک - باجا کیلیفورنیا"</item>
+    <item msgid="6432134534714673873">"ماؤنٹین - چواوا"</item>
+    <item msgid="7629345735485663968">"سنٹرل - تامولی پاس"</item>
+    <item msgid="3874729044260979505">"ماؤنٹین - سونورا"</item>
+    <item msgid="1106209575683600471">"مشرقی افریقہ کا وقت"</item>
+    <item msgid="6538017087072480128">"اٹلانٹک کا معیاری وقت"</item>
+    <item msgid="6758957851822881177">"اٹلانٹک کا معیاری وقت"</item>
+    <item msgid="2477556470536619081">"مشرقی یورپ کا وقت"</item>
+    <item msgid="7328461310893621937">"کلیننگراڈ کا وقت"</item>
+    <item msgid="4212642599758736931">"ایمازن - رونڈونیا"</item>
+    <item msgid="2370319280810537375">"برازیلیا - پھارا"</item>
+  </string-array>
+    <string msgid="804776560897143016" name="hint_time_zone_search">"ملک کا نام ٹائپ کریں"</string>
+    <string msgid="5475293015394772651" name="no_results_found">"کوئی نتائج نہیں ملے"</string>
+    <string msgid="3485026339977302148" name="palestine_display_name">"فلسطین"</string>
+    <string msgid="1603860069305867810" name="searchview_description_clear">"استفسار صاف کریں"</string>
+</resources>

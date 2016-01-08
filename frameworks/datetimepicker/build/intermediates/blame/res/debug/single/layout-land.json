@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/debug/layout-land/date_picker_dialog.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout-land/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/build/intermediates/res/merged/debug/layout-land/time_picker_dialog.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/res/layout-land/time_picker_dialog.xml"
+    }
+]

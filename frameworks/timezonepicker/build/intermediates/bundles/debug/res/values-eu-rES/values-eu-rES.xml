@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+    <item msgid="9141777876082196578">"San Martin"</item>
+    <item msgid="5330962017221568054">"Karibeko Herbehereak"</item>
+    <item msgid="1465164631761814300">"Curaçao"</item>
+    <item msgid="8972081011408691260">"Hego Sudan"</item>
+  </string-array>
+    <string-array name="timezone_rename_labels">
+    <item msgid="4609638052107641231">"Australia erdialdekoa - NT"</item>
+    <item msgid="4345275500159159867">"Australia erdialdekoa - SA"</item>
+    <item msgid="6771274300523132094">"Australia ekialdekoa - QLD"</item>
+    <item msgid="4685547681424666687">"Australia ekialdekoa - NSW"</item>
+    <item msgid="5259393186526893961">"Mendialdeko estandarra - Dawson Creek"</item>
+    <item msgid="5984634754870859705">"Erdialdeko estandarra - Saskatchewan"</item>
+    <item msgid="5340374311583423836">"Ekialdeko estandarra - Atikokan"</item>
+    <item msgid="8922086438245451625">"Atlantikoko estandarra - Quebec"</item>
+    <item msgid="8353677384517034413">"Hawaii-Aleutiarrak - Hawaii"</item>
+    <item msgid="6426791761018806420">"Hawaii-Aleutiarrak - Alaska"</item>
+    <item msgid="7076353182411415610">"Pazifikoko estandarra - Metlakatla"</item>
+    <item msgid="373990592918179890">"Mendialdeko estandarra - Arizona"</item>
+    <item msgid="353899326999279114">"Pazifikokoa - Hego Kalifornia"</item>
+    <item msgid="6432134534714673873">"Mendialdekoa - Chihuahua"</item>
+    <item msgid="7629345735485663968">"Erdialdekoa - Tamaulipas"</item>
+    <item msgid="3874729044260979505">"Mendialdekoa - Sonora"</item>
+    <item msgid="1106209575683600471">"Afrika ekialdeko ordua"</item>
+    <item msgid="6538017087072480128">"Atlantikoko ordu estandarra"</item>
+    <item msgid="6758957851822881177">"Atlantikoko ordu estandarra"</item>
+    <item msgid="2477556470536619081">"Europa ekialdeko ordua"</item>
+    <item msgid="7328461310893621937">"Kaliningradeko ordua"</item>
+    <item msgid="4212642599758736931">"Amazonia - Rondônia"</item>
+    <item msgid="2370319280810537375">"Brasilia - Pará"</item>
+  </string-array>
+    <string msgid="804776560897143016" name="hint_time_zone_search">"Idatzi herrialdearen izena"</string>
+    <string msgid="5475293015394772651" name="no_results_found">"Ez da emaitzarik aurkitu"</string>
+    <string msgid="3485026339977302148" name="palestine_display_name">"Palestina"</string>
+    <string msgid="1603860069305867810" name="searchview_description_clear">"Garbitu kontsulta"</string>
+</resources>

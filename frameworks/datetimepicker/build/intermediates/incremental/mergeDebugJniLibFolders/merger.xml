@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/datetimepicker/src/debug/jniLibs"/></dataSet></merger>

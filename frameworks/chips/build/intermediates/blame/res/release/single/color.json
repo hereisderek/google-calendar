@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/build/intermediates/res/merged/release/color/chips_dropdown_text.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/frameworks/chips/src/main/res/color/chips_dropdown_text.xml"
+    },
+    {
+        "merged": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/build/intermediates/res/merged/release/color/chips_dropdown_text.xml",
+        "source": "/Users/derek/Workspace/Android/Sample/[sample-app]/Calendar/chips/src/main/res/color/chips_dropdown_text.xml"
+    }
+]
